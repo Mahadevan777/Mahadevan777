@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Mahadevaswamy N</h1>
 <h3 align="center">A passionate DevOps and Cloud Engineer.</h3>
 
-- 🔭 I’m currently Working As **Network and Security Engineer**
+- 🔭 I’m currently Working As **Information Security Engineer**
 
 - 🌱 I’m currently learning **Cloud and DevOps**
 
