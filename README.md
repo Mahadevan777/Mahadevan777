@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahadevan777
 - 👀 I’m interested in ...nothing 
 - 🌱 I’m currently learning ...unkownthing
-- 💞️ I’m looking to collaborate on ...somthing
+- 💞️ I’m looking to collaborate on ...somthing 
 - 📫 How to reach me ...
 
 <h1 align="center">Hi 👋, I'm Mahadevaswamy N</h1>
